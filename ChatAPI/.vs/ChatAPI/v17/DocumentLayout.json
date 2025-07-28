@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API PROJECTS\\ChatAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/ChatDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|d:\\api projects\\chatapi\\chatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|d:\\api projects\\chatapi\\chatapi\\chatapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\chatapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|d:\\api projects\\chatapi\\chatapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|d:\\api projects\\chatapi\\chatapi\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|d:\\api projects\\chatapi\\chatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E2EE4-48DC-4F53-AD16-DAA2C40D3549}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/ChatDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-22T10:02:13.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatAPI\\appsettings.json",
+              "ToolTip": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\appsettings.json",
+              "RelativeToolTip": "ChatAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T10:01:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatAPI",
+              "DocumentMoniker": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\ChatAPI.csproj",
+              "RelativeDocumentMoniker": "ChatAPI\\ChatAPI.csproj",
+              "ToolTip": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\ChatAPI.csproj",
+              "RelativeToolTip": "ChatAPI\\ChatAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T09:40:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T12:43:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAPI\\Program.cs",
+              "ToolTip": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\Program.cs",
+              "RelativeToolTip": "ChatAPI\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwFQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:59:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountEndpoint.cs",
+              "DocumentMoniker": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\EndPoints\\AccountEndpoint.cs",
+              "RelativeDocumentMoniker": "ChatAPI\\EndPoints\\AccountEndpoint.cs",
+              "ToolTip": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\EndPoints\\AccountEndpoint.cs",
+              "RelativeToolTip": "ChatAPI\\EndPoints\\AccountEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:54:08.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

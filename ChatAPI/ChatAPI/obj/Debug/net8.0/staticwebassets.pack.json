@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\chatopen.svg",
+      "PackagePath": "staticwebassets\\assets\\chatopen.svg"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\fonts\\material-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icons.woff2"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\icons\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\icons\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\icons\\material-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\material-icons.css"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\images\\Login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Login.png"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\assets\\images\\default-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\default-profile.png"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\chunk-NUFHLUJI.js",
+      "PackagePath": "staticwebassets\\chunk-NUFHLUJI.js"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\chunk-ZEWXD5YL.js",
+      "PackagePath": "staticwebassets\\chunk-ZEWXD5YL.js"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\main-KR2EMYLO.js",
+      "PackagePath": "staticwebassets\\main-KR2EMYLO.js"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\media\\material-icons-SZZ2ZLEB.woff2",
+      "PackagePath": "staticwebassets\\media\\material-icons-SZZ2ZLEB.woff2"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\polyfills-EJ46DL77.js",
+      "PackagePath": "staticwebassets\\polyfills-EJ46DL77.js"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\scripts-BFX45SIT.js",
+      "PackagePath": "staticwebassets\\scripts-BFX45SIT.js"
+    },
+    {
+      "Id": "D:\\API PROJECTS\\ChatAPI\\ChatAPI\\wwwroot\\styles-QRQJ6UIW.css",
+      "PackagePath": "staticwebassets\\styles-QRQJ6UIW.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatAPI.props",
+      "PackagePath": "build\\ChatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatAPI.props",
+      "PackagePath": "buildTransitive\\ChatAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
