@@ -13,7 +13,7 @@ using Microsoft.OpenApi.Models;
 using System.Text;
     
 var builder = WebApplication.CreateBuilder(args);
-var sql = builder.Configuration.GetConnectionString("mycon");   
+var sql = builder.Configuration.GetConnectionString("DefaultConnection") ?? Environment.GetEnvironmentVariable("DEFAULT_CONNECTION");   
 var jwtsetting = builder.Configuration.GetSection("JWT");
 // Add services to the container.
 
